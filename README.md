@@ -24,13 +24,8 @@ HTML5
 CSS3
 
 JavaScript
-
 Purpose
-
 This portfolio was created to showcase my frontend development skills, projects, and creativity, and to build a professional portfolio for internship and job opportunities.
 
 Author-Apurva Danke
-Frontend Developer
-
-Apurva Danke
 Frontend Developer
